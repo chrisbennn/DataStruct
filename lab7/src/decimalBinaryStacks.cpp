@@ -2,7 +2,7 @@
  * decimalBinaryStacks.cpp
  *
  *  Created on: Oct 18, 2018
- *      Author: Lucy
+ *      Author: Chris Ben
  */
 
 #include <iostream>
